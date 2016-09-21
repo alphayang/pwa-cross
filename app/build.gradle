@@ -44,6 +44,6 @@ dependencies {
     compile 'com.android.support:appcompat-v7:21.0.0'
     //compile 'org.xwalk:xwalk_core_library_beta:15.44.384.7'
     //compile 'org.xwalk:xwalk_core_library:19.49.514.5'
-    compile 'org.xwalk:xwalk_core_library:20.50.533.12'
+    compile 'org.xwalk:xwalk_core_library:21.51.546.6'
     //compile 'org.xwalk:xwalk_core_library_beta:21.51.546.3'
 }
